@@ -4,4 +4,6 @@ Source code for [trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic) an
 
 For instance, the sequence `AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC` is represented in one file as `>PE2_rc` and in another file as `>TruSeq3_IndexedAdapter`. In the combined output file, it is represented a single time as `>PE2_rc | >TruSeq3_IndexedAdapter`. 
 
-The final combined fasta file for all adapters included here is: **[adapters_combined_152_unique.fasta](adapters_combined_152_unique.fasta)**
+The final combined fasta file for all adapters included here is: **[adapters_combined_152_unique.fasta](adapters_combined_152_unique.fasta)**.
+
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) if you wish to add to this repo.
